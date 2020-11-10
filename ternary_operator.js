@@ -7,4 +7,4 @@ console.log('Turn on the lights!');
 }
 
 // Same as above
-isLightOn ? console.log('Turn on the lights!') : console.log('Turn off the lights!');
+isLightOn ? console.log('Turn off the lights!') : console.log('Turn on the lights!');

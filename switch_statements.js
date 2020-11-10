@@ -1,4 +1,4 @@
-let moonPhase = 'full';
+let moonPhase = '';
 
 switch (moonPhase){
     case 'full':
